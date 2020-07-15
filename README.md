@@ -2,9 +2,9 @@
 
 - I am a Full-Stack Developer and Engineering Manager living in Japan 🗾 and passionate about building stuff (especially APIs) in the cloud ⛅
 
-- I have a high affinity with statically and strongly typed languages 💪 so you will see some C#/.NET Core and Typescript around here.
+- I have a high affinity with statically and strongly typed languages 💪 so you will see some **C#/.NET Core** and **Typescript** around here.
 
-- This Github mainly hosts personal projects to test things I don't have time at work 💻
+- This Github mainly hosts personal projects to test and play with things I don't have time to at work 💻
 
 ----
 
