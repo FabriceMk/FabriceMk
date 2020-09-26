@@ -18,7 +18,7 @@
 
 
 ### 📚 Tech Blog
-- Hosted on **dev.to**: https://dev.to/fabricemk (Multiple articles in draft will be published during Summer 2020)
+- Hosted on **dev.to**: https://dev.to/fabricemk (Multiple articles in draft)
 
 
 <!--
