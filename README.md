@@ -18,7 +18,7 @@
 
 
 ### 📚 Tech Blog
-- Hosted on **dev.to**: https://dev.to/fabricemk (Multiple articles in draft)
+- Hosted on **dev.to**: https://dev.to/fabricemk
 
 
 <!--
