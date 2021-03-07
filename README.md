@@ -10,16 +10,23 @@
 
 ### 🌱 Current Learnings
 
-- Becoming even better at dealing with humans as a manager 😁 for my engineers to make them grow and become the best.
+- Becoming even better at dealing with humans as a manager 😁 to make my enginees grow and become the best.
 
-- I am also motivating myself to start writing tech articles and share my knowledge about technical topcs but also managerial ones.
+- Studying to pass the [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
 
 - Building games on a fantasy console with [Pico-8](https://www.lexaloffle.com/pico-8.php)
 
 
 ### 📚 Tech Blog
+
 - Hosted on **dev.to**: https://dev.to/fabricemk
 
+
+### 📣 Social Networks
+
+- [LinkedIn](https://www.linkedin.com/in/fmongkhoune/)
+
+- [Stack Overflow](https://stackoverflow.com/users/559290/fabricemk)
 
 <!--
 **FabriceMk/FabriceMk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
