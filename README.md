@@ -12,8 +12,6 @@
 
 - Becoming even better at dealing with humans as a manager 😁 to make my enginees grow and become the best.
 
-- Studying to pass the [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
-
 - Building games on a fantasy console with [Pico-8](https://www.lexaloffle.com/pico-8.php)
 
 
