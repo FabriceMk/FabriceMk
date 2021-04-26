@@ -10,7 +10,7 @@
 
 ### 🌱 Current Learnings
 
-- Becoming even better at dealing with humans as a manager 😁 to make my enginees grow and become the best.
+- Becoming even better at dealing with humans as a manager 😁 to make my engineers grow and become the best.
 
 - Building games on a fantasy console with [Pico-8](https://www.lexaloffle.com/pico-8.php)
 
