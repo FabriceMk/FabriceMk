@@ -2,13 +2,15 @@
 
 - I am a Full-Stack Developer and Engineering Manager living in Japan 🗾 and passionate about building stuff (especially APIs) in the cloud ⛅
 
-- I have a high affinity with statically and strongly typed languages 💪 so you will see some **C#/.NET Core** and **Typescript** around here.
+- I have a high affinity with statically and strongly typed languages 💪 so you will see some **C#/.NET Core** and **Golang** around here.
 
 - This Github mainly hosts personal projects to test and play with things I don't have time to at work 💻
 
 ----
 
 ### 🌱 Current Learnings
+
+- Trying to become as fluent in Golang as I was in C#
 
 - Becoming even better at dealing with humans as a manager 😁 to make my engineers grow and become the best.
 
