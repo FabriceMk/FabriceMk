@@ -10,11 +10,7 @@
 
 ### 🌱 Current Learnings
 
-- Trying to become as fluent in Golang as I was in C#
-
-- Becoming even better at dealing with humans as a manager 😁 to make my engineers grow and become the best.
-
-- Building games on a fantasy console with [Pico-8](https://www.lexaloffle.com/pico-8.php)
+- C++ and Sega Saturn homebrew development
 
 
 ### 📚 Tech Blog
